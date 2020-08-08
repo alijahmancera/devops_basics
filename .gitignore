@@ -1,0 +1,9 @@
+*.project
+*.iml
+*.idea
+*.settings
+*.classpath
+/server/.settings/
+/server/target/
+/webapp/.settings/
+/webapp/target/
